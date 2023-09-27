@@ -1,0 +1,16 @@
+1_ javascript can declare vriable without let const 
+   ex: let name; is equal to name;
+
+2_object.__proto__.__proto__ ==null
+  arr.__proto__.__proto__ = prototype
+
+3_Promisse  
+   Pending,fullfilled.rejected
+   Pending:
+      promise created but no respomse
+   fullfilled:
+      when we resolved is full filled
+   rejected:
+      when we rejectet
+   
+   promise are create to replace callback.Because callback makes our code clumpsy
