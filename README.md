@@ -10,5 +10,5 @@ Hello floks...
 * Clone this repository for improve your learning
 
   ```sh
-  npm run android
+  git clone https://github.com/Ganeshguru5/Javascript_beginner_and_interview_guide.git
   ```
